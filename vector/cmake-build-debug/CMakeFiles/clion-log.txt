@@ -1,0 +1,4 @@
+Cannot generate into C:\Users\lu'ren'jia'd's\CLionProjects\STLite\vector
+It is already used for project C:\Users\lu'ren'jia'd's\CLionProjects\STLite
+
+Please either delete it manually or select another generation directory
